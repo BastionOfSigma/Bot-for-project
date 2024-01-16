@@ -1,24 +1,7 @@
 {
   "7 класс": {
     "Информатика": {
-      "Системы счисления": [
-        {
-          "text": "TEST TEXT TASK NO PICTURE",
-          "image": "",
-          "solution": {
-            "text": "TEST SOLUTION",
-            "image": ""
-          }
-        },
-        {
-          "text": "TEST TASK WITH PICTURE",
-          "image": "c:\\Users\\BASTION\\Documents\\роект/images/7 класс_Информатика_Системы счисления1.png",
-          "solution": {
-            "text": "TEST SOLUTION PICTURE",
-            "image": "c:\\Users\\BASTION\\Documents\\роект/images/7 класс_Информатика_Системы счисления1answer.png"
-          }
-        }
-      ],
+      "Системы счисления": [],
       "Алгебра логики": []
     }
   },
